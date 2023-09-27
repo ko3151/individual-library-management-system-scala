@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 16 23:38:34 MYT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0182-07a9-5420-000005960048 
+on database directory /Users/kolandy_02/Downloads/OOP/Project_20043923/library/myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/Users/kolandy_02/Downloads/OOP/Project_20043923/library/target/bg-jobs/sbt_355ef13c/target/701c5063/d4f190b2/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_331-b09
+user.dir=/Users/kolandy_02/Downloads/OOP/Project_20043923/library
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
